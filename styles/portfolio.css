@@ -206,4 +206,8 @@ footer .social-links a:hover {
     padding: 0;
     text-align: center;
   }
+  .h3 sweet {
+    text-shadow: 2px 2px #ff0000;
+    text-align: center;
+  }
 }
